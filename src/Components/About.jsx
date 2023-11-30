@@ -35,7 +35,7 @@ const skillsList = [
   "Content Creator",
   "CS Teacher",
   "Video Editor",
-  "Graphic design",
+  "Graphic Design",
 ];
 
 /**
